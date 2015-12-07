@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 	<channel>
 		<title>BeaconHill (Sufficient Velocity)</title>
 		<description>Updates to BeaconHill's long-running fic series. Links go to Sufficient Velocity.</description>
 		<link>https://forums.sufficientvelocity.com/members/beaconhill.207/</link>
-		<lastBuildDate>Fri, 23 Apr 1993 00:00:00 +0000</lastBuildDate>
-		<pubDate>Fri, 23 Apr 1993 00:00:00 +0000</pubDate>
-	</channel>
+		<lastBuildDate>Mon, 07 Dec 2015 02:02:03 +0000</lastBuildDate>
+		<pubDate>Mon, 07 Dec 2015 02:02:03 +0000</pubDate>
+	<item><title>Testing the Update Robot</title><description>This is a test post; I'm trying out the new Update Robot.</description><link>https://forums.sufficientvelocity.com/threads/heredity-worm-au.4341/page-100#post-4086610</link><pubDate>Mon, 07 Dec 2015 02:02:03 +0000</pubDate><guid isPermaLink="true">https://forums.sufficientvelocity.com/threads/heredity-worm-au.4341/page-100#post-4086610</guid></item></channel>
 </rss>

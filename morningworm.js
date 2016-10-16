@@ -246,7 +246,7 @@ function storyNavFor(story) {
 		[
 			el('a', {'href': story.sb}, [tx('SpaceBattles')]),
 			tx(' '),
-			el('a', {'href': story.sb}, [tx('Sufficient Velocity')]),
+			el('a', {'href': story.sv}, [tx('Sufficient Velocity')]),
 		]
 	);
 }

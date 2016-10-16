@@ -210,13 +210,13 @@ function countMatchingStories(required_tags, stories, spoilers) {
 
 	for (var i=0; i<stories.length; i++) {
 		var tags;
-		if (showingSpoilers()) {
+		if (spoilers) {
 			tags = stories[i].lookup_tags_spoilers;
 		} else {
 			tags = stories[i].lookup_tags;
 		}
 
-		if (hasAllRequiredTags(required_tags, tags)) {
+		if (hasAllRequiredTags(tags, required_tags)) {
 			out += 1;
 		}
 	}
@@ -395,17 +395,17 @@ function updateResults() {
 	if (shown_with_spoilers > shown_chapters) {
 		var diff = shown_with_spoilers - shown_chapters;
 
-		var spoiler_text;
+		var text;
 		if (diff == 1) {
-			spoiler_text = ' Turning on spoilers would reveal 1 more story.';
+			text = ' Turning on spoilers would reveal 1 more chapter.';
 		} else {
-			spoiler_text = ' Turning on spoilers would reveal '+diff+' more stories.';
+			text = ' Turning on spoilers would reveal '+diff+' more chapters.';
 		}
 
 		$('info_text').appendChild(el(
 			'span',
 			{'className': 'spoiler'},
-			[tx(spoiler_text)]
+			[tx(text)]
 		));
 	}
 

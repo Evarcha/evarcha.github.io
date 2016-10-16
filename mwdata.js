@@ -4403,6 +4403,384 @@ var mw_data =
         }
       ], 
       "thread_sv": null
+    }, 
+    {
+      "lookup_tags_spoilers": {
+        "Taylor": true, 
+        "Undersiders Taylor": true, 
+        "Case 53 Taylor": true, 
+        "AltTaylor": true, 
+        "Taylor POV": true, 
+        "Lisa": true, 
+        "Canon Scene": true
+      }, 
+      "thread_sb": null, 
+      "name": "Metamorphosis", 
+      "tags": {
+        "Undersiders Taylor": "normal", 
+        "Case 53 Taylor": "normal", 
+        "AltTaylor": "normal", 
+        "Taylor POV": "normal", 
+        "Lisa": "normal", 
+        "Canon Scene": "normal"
+      }, 
+      "lookup_tags": {
+        "Taylor": true, 
+        "Undersiders Taylor": true, 
+        "Case 53 Taylor": true, 
+        "AltTaylor": true, 
+        "Taylor POV": true, 
+        "Lisa": true, 
+        "Canon Scene": true
+      }, 
+      "stories": [
+        {
+          "lookup_tags_spoilers": {
+            "Taylor": true, 
+            "Undersiders Taylor": true, 
+            "Case 53 Taylor": true, 
+            "AltTaylor": true, 
+            "Taylor POV": true, 
+            "Lisa": true, 
+            "Canon Scene": true
+          }, 
+          "visible_tags": [
+            "Undersiders Taylor", 
+            "Case 53 Taylor", 
+            "AltTaylor", 
+            "Taylor POV", 
+            "Lisa", 
+            "Canon Scene"
+          ], 
+          "title": "\"The Metamorphosis\"", 
+          "sv": "https://forums.sufficientvelocity.com/threads/beaconhills-morning-worm-one-shot-series-worm.14077/page-122#post-6915919", 
+          "lookup_tags": {
+            "Taylor": true, 
+            "Undersiders Taylor": true, 
+            "Case 53 Taylor": true, 
+            "AltTaylor": true, 
+            "Taylor POV": true, 
+            "Lisa": true, 
+            "Canon Scene": true
+          }, 
+          "visible_spoiler_tags": [
+            "Undersiders Taylor", 
+            "Case 53 Taylor", 
+            "AltTaylor", 
+            "Taylor POV", 
+            "Lisa", 
+            "Canon Scene"
+          ], 
+          "sb": "https://forums.spacebattles.com/threads/beaconhills-morning-worm-one-shot-series-worm.325982/page-74#post-26045771", 
+          "id": "50-21", 
+          "desc": "On Taylor's first night out, she defeated Lung, met Armsmaster and the Undersiders... and discovered something new under her shirt. A warm black scale, just a little bit soft, that over her first few weeks multiplied into many scales, until finally she was almost covered. And then she shed her skin to reveal her chrysalis... and started to <i>really</i> change."
+        }
+      ], 
+      "thread_sv": null
+    }, 
+    {
+      "lookup_tags_spoilers": {
+        "Emma": true, 
+        "Bitch and Sophia": true, 
+        "Bitch": true, 
+        "Alan Barnes": true, 
+        "Sophia POV": true, 
+        "Sophia": true
+      }, 
+      "thread_sb": "https://forums.spacebattles.com/threads/woof-worm.440854/", 
+      "name": "Woof", 
+      "tags": {
+        "Sophia POV": "normal", 
+        "Rachel": "normal", 
+        "Emma": "normal", 
+        "Sophia and Rachel": "normal", 
+        "Alan Barnes": "normal"
+      }, 
+      "lookup_tags": {
+        "Emma": true, 
+        "Bitch and Sophia": true, 
+        "Bitch": true, 
+        "Alan Barnes": true, 
+        "Sophia POV": true, 
+        "Sophia": true
+      }, 
+      "stories": [
+        {
+          "lookup_tags_spoilers": {
+            "Sophia POV": true, 
+            "Bitch": true, 
+            "Sophia": true, 
+            "Bitch and Sophia": true
+          }, 
+          "visible_tags": [
+            "Sophia POV", 
+            "Bitch", 
+            "Bitch and Sophia"
+          ], 
+          "title": "\"Woof\"", 
+          "sv": "https://forums.sufficientvelocity.com/threads/beaconhills-morning-worm-one-shot-series-worm.14077/page-122#post-6939831", 
+          "lookup_tags": {
+            "Sophia POV": true, 
+            "Bitch": true, 
+            "Sophia": true, 
+            "Bitch and Sophia": true
+          }, 
+          "visible_spoiler_tags": [
+            "Sophia POV", 
+            "Bitch", 
+            "Bitch and Sophia"
+          ], 
+          "sb": "https://forums.spacebattles.com/threads/beaconhills-morning-worm-one-shot-series-worm.325982/page-74#post-26195578", 
+          "id": "50-22", 
+          "desc": "One night, as Sophia is getting ready to join the Wards, she shows up at their control room. It's late; no one is around but Hellhound, and Sophia doesn't really want to talk to her. But, a cute little dog named Oswald helps to break the ice. Sophia admits just how worried she is about her friend Emma. And, instead of sleeping over at the PRT headquarters, Sophia goes to sleep over with Rachel."
+        }, 
+        {
+          "lookup_tags_spoilers": {
+            "Emma": true, 
+            "Bitch and Sophia": true, 
+            "Bitch": true, 
+            "Alan Barnes": true, 
+            "Sophia POV": true, 
+            "Sophia": true
+          }, 
+          "visible_tags": [
+            "Sophia POV", 
+            "Bitch", 
+            "Emma", 
+            "Bitch and Sophia", 
+            "Alan Barnes"
+          ], 
+          "title": "\"Getting Help\"", 
+          "sv": "https://forums.sufficientvelocity.com/threads/beaconhills-morning-worm-one-shot-series-worm.14077/page-125#post-6971852", 
+          "lookup_tags": {
+            "Emma": true, 
+            "Bitch and Sophia": true, 
+            "Bitch": true, 
+            "Alan Barnes": true, 
+            "Sophia POV": true, 
+            "Sophia": true
+          }, 
+          "visible_spoiler_tags": [
+            "Sophia POV", 
+            "Bitch", 
+            "Emma", 
+            "Bitch and Sophia", 
+            "Alan Barnes"
+          ], 
+          "sb": "https://forums.spacebattles.com/threads/beaconhills-morning-worm-one-shot-series-worm.325982/page-78#post-26385925", 
+          "id": "50-25", 
+          "desc": "After yet another night sleeping over with Rachel, Sophia arrives at school late the first day after winter break... only to find the girl she had once bullied, a girl named Taylor Hebert, being carried out on a stretcher. She talks to Emma, who seems to almost be gloating about sending Taylor to the hospital. That's when Sophia realizes: Emma <i>really</i> needs help."
+        }
+      ], 
+      "thread_sv": "https://forums.sufficientvelocity.com/threads/woof-worm.32632/"
+    }, 
+    {
+      "lookup_tags_spoilers": {
+        "Grue": true, 
+        "Taylor": true, 
+        "Grue and Taylor": true, 
+        "Canon Powers Taylor": true, 
+        "Hero Taylor": true, 
+        "Brian POV": true
+      }, 
+      "thread_sb": null, 
+      "name": "Night Train", 
+      "tags": {
+        "Canon Powers Taylor": "normal", 
+        "Taylor": "normal", 
+        "Taylor and Grue": "normal", 
+        "Hero Taylor": "normal", 
+        "Brian POV": "normal"
+      }, 
+      "lookup_tags": {
+        "Grue": true, 
+        "Taylor": true, 
+        "Grue and Taylor": true, 
+        "Canon Powers Taylor": true, 
+        "Hero Taylor": true, 
+        "Brian POV": true
+      }, 
+      "stories": [
+        {
+          "lookup_tags_spoilers": {
+            "Grue": true, 
+            "Taylor": true, 
+            "Grue and Taylor": true, 
+            "Canon Powers Taylor": true, 
+            "Hero Taylor": true, 
+            "Brian POV": true
+          }, 
+          "visible_tags": [
+            "Canon Powers Taylor", 
+            "Taylor", 
+            "Grue and Taylor", 
+            "Hero Taylor", 
+            "Brian POV"
+          ], 
+          "title": "\"Night Train\"", 
+          "sv": "https://forums.sufficientvelocity.com/threads/beaconhills-morning-worm-one-shot-series-worm.14077/page-123#post-6953646", 
+          "lookup_tags": {
+            "Grue": true, 
+            "Taylor": true, 
+            "Grue and Taylor": true, 
+            "Canon Powers Taylor": true, 
+            "Hero Taylor": true, 
+            "Brian POV": true
+          }, 
+          "visible_spoiler_tags": [
+            "Canon Powers Taylor", 
+            "Taylor", 
+            "Grue and Taylor", 
+            "Hero Taylor", 
+            "Brian POV"
+          ], 
+          "sb": "https://forums.spacebattles.com/threads/beaconhills-morning-worm-one-shot-series-worm.325982/page-76#post-26276272", 
+          "id": "50-23", 
+          "desc": "Brian Laborn works nights out of town. At least, that's what he tells everybody. And it's true: he takes the 9:45PM train to Boston, every night. But what he doesn't say is that his job is to be a supervillain for hire. One night, he runs into a girl on the tracks, a girl named Taylor, about his age. It doesn't take long before they're good friends... even if they don't always want to explain just where all those bruises came from."
+        }
+      ], 
+      "thread_sv": null
+    }, 
+    {
+      "lookup_tags_spoilers": {
+        "Emma POV": true, 
+        "Emma": true, 
+        "Case 53 Taylor": true, 
+        "AltTaylor": true, 
+        "Taylor": true, 
+        "Sophia": true
+      }, 
+      "thread_sb": null, 
+      "name": "Angel", 
+      "tags": {
+        "AltTaylor": "normal", 
+        "Emma POV": "normal", 
+        "Case 53 Taylor": "normal", 
+        "Sophia": "normal", 
+        "Taylor": "normal"
+      }, 
+      "lookup_tags": {
+        "Emma POV": true, 
+        "Emma": true, 
+        "Case 53 Taylor": true, 
+        "AltTaylor": true, 
+        "Taylor": true, 
+        "Sophia": true
+      }, 
+      "stories": [
+        {
+          "lookup_tags_spoilers": {
+            "Emma POV": true, 
+            "Emma": true, 
+            "Case 53 Taylor": true, 
+            "AltTaylor": true, 
+            "Taylor": true, 
+            "Sophia": true
+          }, 
+          "visible_tags": [
+            "AltTaylor", 
+            "Emma POV", 
+            "Case 53 Taylor", 
+            "Sophia", 
+            "Taylor"
+          ], 
+          "title": "\"Angel\"", 
+          "sv": "https://forums.sufficientvelocity.com/threads/beaconhills-morning-worm-one-shot-series-worm.14077/page-124#post-6963475", 
+          "lookup_tags": {
+            "Emma POV": true, 
+            "Emma": true, 
+            "Case 53 Taylor": true, 
+            "AltTaylor": true, 
+            "Taylor": true, 
+            "Sophia": true
+          }, 
+          "visible_spoiler_tags": [
+            "AltTaylor", 
+            "Emma POV", 
+            "Case 53 Taylor", 
+            "Sophia", 
+            "Taylor"
+          ], 
+          "sb": "https://forums.spacebattles.com/threads/beaconhills-morning-worm-one-shot-series-worm.325982/page-77#post-26333776", 
+          "id": "50-24", 
+          "desc": "Emma Barnes was attacked by the ABB, and she still isn't the same. In an almost zombie-like fugue, she walks out to the place she'd been attacked before. It's not a safe neighborhood, and before long she gets mugged. That's when an angel descends from the sky."
+        }, 
+        {
+          "lookup_tags_spoilers": {
+            "Emma POV": true, 
+            "Emma": true, 
+            "Case 53 Taylor": true, 
+            "AltTaylor": true, 
+            "Taylor": true, 
+            "Sophia": true
+          }, 
+          "visible_tags": [
+            "AltTaylor", 
+            "Emma POV", 
+            "Case 53 Taylor", 
+            "Sophia", 
+            "Taylor"
+          ], 
+          "title": "\"Angel\" Revised", 
+          "sv": "https://forums.sufficientvelocity.com/threads/beaconhills-morning-worm-one-shot-series-worm.14077/page-125#post-6971965", 
+          "lookup_tags": {
+            "Emma POV": true, 
+            "Emma": true, 
+            "Case 53 Taylor": true, 
+            "AltTaylor": true, 
+            "Taylor": true, 
+            "Sophia": true
+          }, 
+          "visible_spoiler_tags": [
+            "AltTaylor", 
+            "Emma POV", 
+            "Case 53 Taylor", 
+            "Sophia", 
+            "Taylor"
+          ], 
+          "sb": "https://forums.spacebattles.com/threads/beaconhills-morning-worm-one-shot-series-worm.325982/page-78#post-26386669", 
+          "id": "50-26", 
+          "desc": "Emma Barnes was attacked by the ABB, and she still isn't the same. In an almost zombie-like fugue, she walks out to the place she'd been attacked before. It's not a safe neighborhood, and before long she gets mugged. That's when an angel descends from the sky. An... oddly familiar angel, in fact..."
+        }, 
+        {
+          "lookup_tags_spoilers": {
+            "Emma POV": true, 
+            "Emma": true, 
+            "Case 53 Taylor": true, 
+            "AltTaylor": true, 
+            "Taylor": true, 
+            "Sophia": true
+          }, 
+          "visible_tags": [
+            "AltTaylor", 
+            "Emma POV", 
+            "Case 53 Taylor", 
+            "Sophia", 
+            "Taylor"
+          ], 
+          "title": "\"Meeting New Friends\"", 
+          "sv": "https://forums.sufficientvelocity.com/threads/beaconhills-morning-worm-one-shot-series-worm.14077/page-126#post-7005144", 
+          "lookup_tags": {
+            "Emma POV": true, 
+            "Emma": true, 
+            "Case 53 Taylor": true, 
+            "AltTaylor": true, 
+            "Taylor": true, 
+            "Sophia": true
+          }, 
+          "visible_spoiler_tags": [
+            "AltTaylor", 
+            "Emma POV", 
+            "Case 53 Taylor", 
+            "Sophia", 
+            "Taylor"
+          ], 
+          "sb": "https://forums.spacebattles.com/threads/beaconhills-morning-worm-one-shot-series-worm.325982/page-80#post-26575417", 
+          "id": "50-27", 
+          "desc": "After being saved from yet another mugging, Emma Barnes got to meet the hero who saved her, the famous Angel \u2013 only to find that Angel was, in fact, her best friend Taylor. Along with Sophia, another of Taylor's friends \u2013\u00a0also known as the <i>other</i> superhero to have rescued Emma this week, Shadow Stalker \u2013 they all go out to lunch, as Taylor tries to help Emma get her head around the news."
+        }
+      ], 
+      "thread_sv": null
     }
   ], 
   "tag_sections": [
@@ -4457,6 +4835,7 @@ var mw_data =
       [
         "Amy POV", 
         "Armsmaster POV", 
+        "Brian POV", 
         "Coil POV", 
         "Emma POV", 
         "Lisa POV", 
@@ -4473,8 +4852,10 @@ var mw_data =
       "Both romantic and non-romantic", 
       [
         "Armsmaster and Lung", 
+        "Bitch and Sophia", 
         "Clockblocker and Taylor", 
         "Emma and Sophia", 
+        "Grue and Taylor", 
         "Imp and Regent", 
         "Madison and Taylor", 
         "Sophia and Taylor", 
@@ -4533,6 +4914,7 @@ var mw_data =
   "tag_definitions": {
     "Sophia and Vista": "Sophia and Vista are a pair", 
     "Background Swap": "Two characters have traded backgrounds", 
+    "Taylor and Grue": "Taylor and Grue are a pair", 
     "Armsmaster and Lung": "Armsmaster and Lung are a pair", 
     "Armsmaster POV": "Armsmaster is the POV character", 
     "Undersiders Taylor": "Taylor is in the Undersiders", 
@@ -4548,6 +4930,7 @@ var mw_data =
     "AltAmy": "Amy has a power different from her canon one", 
     "Unknowingly Creepy Taylor": "Taylor is not aware how creepy she is", 
     "Kid Win": "Kid Win appears", 
+    "Brian POV": "Grue is the POV character", 
     "Emma and Sophia Hero Team": "Emma and Sophia are heroes together", 
     "Taylor and Madison": "Taylor and Madison are a pair", 
     "Theo POV": "Theo is the POV character", 
@@ -4616,6 +4999,7 @@ var mw_data =
     "Danny": "Danny appears", 
     "Cherish": "Cherish appears", 
     "Lisa": "Lisa appears", 
+    "Sophia and Rachel": "Sophia and Bitch are a pair", 
     "E88": "The Empire Eighty-Eight appears", 
     "Grue": "Grue appears", 
     "Bitch": "Bitch appears", 

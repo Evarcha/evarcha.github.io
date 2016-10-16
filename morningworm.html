@@ -1,0 +1,148 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Morning Worm Index</title>
+		<style type="text/css">
+			html {
+				margin: 0;
+				padding: 0;
+				background-color: #ddd;
+				font-family: Helvetica, sans-serif;
+				font-size: 12px;
+			}
+
+			body {
+				margin: 8px 0 0;
+				padding: 0;
+			}
+
+			#header, #loading, #tag_select, #info_row, #results {
+				margin: 0 auto 8px;
+				padding: 8px;
+				width: 1280px;
+				background-color: white;
+				border: 1px solid #ccc;
+			}
+
+			#loading {
+				text-align: center;
+			}
+
+			#dynamic {
+				//display: none;
+			}
+
+			h1,h2,h3,h4,h5,h6 {
+				padding: 0;
+				margin: 0;
+			}
+
+			.spoiler {
+				font-weight: bold;
+				color: red;
+			}
+
+			.tagBubble, .tagSelectorBubble {
+				display: inline-block;
+				padding: 2px 6px 2px 4px;
+				margin: 2px;
+				border-radius: 4px;
+				background-color: #eee;
+				border: 1px solid #ccc;
+			}
+
+			.tagSelectorHeaderTitle {
+				font-size: 24px;
+				font-weight: bold;
+			}
+
+			.tagSelectorHeaderDescription {
+
+			}
+
+			.tagSelectorArea {
+
+			}
+
+			.resultSeries {
+				margin: 12px 0px;
+				padding-left: 8px;
+				border-left: 2px solid #777;
+			}
+
+			.resultSeries:first-child {
+				margin-top: 0;
+			}
+
+			.resultSeries:last-child {
+				margin-bottom: 0;
+			}
+
+			.resultStories {
+				padding: 4px 0 0;
+			}
+
+			.resultSeriesTitle {
+				font-size: 18px;
+				line-height: 18px;
+				font-weight: bold;
+			}
+
+			.resultStory:first-child {
+				margin-top: 0;
+			}
+
+			.resultStory:last-child {
+				margin-bottom: 0;
+			}
+
+			.resultStory {
+				margin: 4px 0;
+				padding: 4px;
+				border: 1px solid #777;
+				background-color: white;
+			}
+
+			.storyHeader {
+				font-size: 16px;
+				font-weight: bold;
+			}
+
+			.storyNavigation {
+				font-size: 14px;
+			}
+
+			.storyDescription {
+				margin: 0;
+				padding: 0;
+				font-size: 14px;
+			}
+		</style>
+		<script type="text/javascript" src="mwdata.js"></script>
+		<script type="text/javascript" src="morningworm.js"></script>
+	</head>
+	<body>
+		<div id="header">
+			<h1>BeaconHill's <i>Morning Worm</i></h1>
+			<h2>Interactive Index</h2>
+		</div>
+		<div id="loading">
+			Loading...
+			<noscript>(This won't work unless you turn on Javascript.)</noscript>
+		</div>
+		<div id="dynamic">
+			<div id="tag_select">
+
+			</div>
+			<div id="info_row">
+				<span id="info_text"></span>
+				<label>
+					<input type="checkbox" id="show_spoilers" />
+					<span class="spoiler">Show Spoilers?</span>
+				</label>
+			</div>
+			<div id="results">
+			</div>
+		</div>
+	</body>
+</html>

@@ -4781,6 +4781,92 @@ var mw_data =
         }
       ], 
       "thread_sv": null
+    }, 
+    {
+      "lookup_tags_spoilers": {
+        "Creepy Taylor": true, 
+        "Villain Taylor": true, 
+        "Emma POV": true, 
+        "Emma": true, 
+        "Dark Tone": true, 
+        "Creepy": true, 
+        "Regent and Taylor": true, 
+        "Taylor": true, 
+        "Power Swap": true, 
+        "Undersiders Taylor": true
+      }, 
+      "thread_sb": null, 
+      "name": "Twitch", 
+      "tags": {
+        "Creepy Taylor": "normal", 
+        "Villain Taylor": "normal", 
+        "Emma POV": "normal", 
+        "Undersiders Taylor": "normal", 
+        "Taylor and Alec": "normal", 
+        "Power Swap": "normal"
+      }, 
+      "lookup_tags": {
+        "Creepy Taylor": true, 
+        "Villain Taylor": true, 
+        "Emma POV": true, 
+        "Emma": true, 
+        "Dark Tone": true, 
+        "Creepy": true, 
+        "Regent and Taylor": true, 
+        "Taylor": true, 
+        "Power Swap": true, 
+        "Undersiders Taylor": true
+      }, 
+      "stories": [
+        {
+          "lookup_tags_spoilers": {
+            "Creepy Taylor": true, 
+            "Villain Taylor": true, 
+            "Emma POV": true, 
+            "Emma": true, 
+            "Dark Tone": true, 
+            "Creepy": true, 
+            "Regent and Taylor": true, 
+            "Taylor": true, 
+            "Power Swap": true, 
+            "Undersiders Taylor": true
+          }, 
+          "visible_tags": [
+            "Creepy Taylor", 
+            "Villain Taylor", 
+            "Emma POV", 
+            "Undersiders Taylor", 
+            "Regent and Taylor", 
+            "Power Swap"
+          ], 
+          "title": "\"Twitch\"", 
+          "sv": "https://forums.sufficientvelocity.com/threads/beaconhills-morning-worm-one-shot-series-worm.14077/page-127#post-7092941", 
+          "lookup_tags": {
+            "Creepy Taylor": true, 
+            "Villain Taylor": true, 
+            "Emma POV": true, 
+            "Emma": true, 
+            "Dark Tone": true, 
+            "Creepy": true, 
+            "Regent and Taylor": true, 
+            "Taylor": true, 
+            "Power Swap": true, 
+            "Undersiders Taylor": true
+          }, 
+          "visible_spoiler_tags": [
+            "Creepy Taylor", 
+            "Villain Taylor", 
+            "Emma POV", 
+            "Undersiders Taylor", 
+            "Regent and Taylor", 
+            "Power Swap"
+          ], 
+          "sb": "https://forums.spacebattles.com/posts/27100142/", 
+          "id": "50-28", 
+          "desc": "At school, Emma is walking away with Madison, when her arm twitches and touches her on the butt. That's embarrassing, but it isn't really a big deal. Except that it didn't stop. Tripping in front of Sophia and Taylor, trembling in math class... Something might be really wrong with her! Except, when she tries to text Sophia about it... suddenly she can't press the button. Her body seemingly out of her control, she walks out of school, and meets Taylor."
+        }
+      ], 
+      "thread_sv": null
     }
   ], 
   "tag_sections": [
@@ -4858,6 +4944,7 @@ var mw_data =
         "Grue and Taylor", 
         "Imp and Regent", 
         "Madison and Taylor", 
+        "Regent and Taylor", 
         "Sophia and Taylor", 
         "Sophia and Vista", 
         "Taylor and Theo"
@@ -4896,6 +4983,7 @@ var mw_data =
         "Not Worm Powers", 
         "Original Fiction", 
         "Post Gold Morning", 
+        "Power Swap", 
         "Powered Emma", 
         "Powerless Taylor", 
         "Revenge", 
@@ -4982,6 +5070,7 @@ var mw_data =
     "Vista": "Vista appears", 
     "Good Guy Sophia": "Sophia is a good person", 
     "Taylor and Sophia": "Taylor and Sophia are a pair", 
+    "Taylor and Alec": "Taylor and Regent are a pair", 
     "Regent": "Regent appears", 
     "Canon Skitter": "Taylor is Skitter of the Undersiders", 
     "Flechette": "Flechette appears", 

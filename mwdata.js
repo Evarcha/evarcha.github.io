@@ -385,6 +385,7 @@ var mw_data =
         "Revenge": true, 
         "Creepy": true, 
         "AltTaylor": true, 
+        "Regent and Taylor": true, 
         "Comeuppance": true, 
         "Taylor POV": true, 
         "Regent POV": true
@@ -396,6 +397,7 @@ var mw_data =
         "Creepy Taylor": "normal", 
         "Revenge": "normal", 
         "AltTaylor": "normal", 
+        "Regent and Taylor": "normal", 
         "Taylor POV": "normal", 
         "Regent POV": "normal"
       }, 
@@ -408,6 +410,7 @@ var mw_data =
         "Revenge": true, 
         "Creepy": true, 
         "AltTaylor": true, 
+        "Regent and Taylor": true, 
         "Comeuppance": true, 
         "Taylor POV": true, 
         "Regent POV": true
@@ -423,15 +426,17 @@ var mw_data =
             "Revenge": true, 
             "Creepy": true, 
             "AltTaylor": true, 
+            "Regent and Taylor": true, 
             "Comeuppance": true, 
             "Regent POV": true
           }, 
           "visible_tags": [
             "Villain Taylor", 
-            "AltTaylor", 
             "Creepy Taylor", 
-            "Regent POV", 
-            "Revenge"
+            "Revenge", 
+            "AltTaylor", 
+            "Regent and Taylor", 
+            "Regent POV"
           ], 
           "title": "\"Stolen\"", 
           "sv": "https://forums.sufficientvelocity.com/threads/beaconhills-morning-worm-one-shot-series-worm.14077/page-6#post-2713569", 
@@ -444,15 +449,17 @@ var mw_data =
             "Revenge": true, 
             "Creepy": true, 
             "AltTaylor": true, 
+            "Regent and Taylor": true, 
             "Comeuppance": true, 
             "Regent POV": true
           }, 
           "visible_spoiler_tags": [
             "Villain Taylor", 
-            "AltTaylor", 
             "Creepy Taylor", 
-            "Regent POV", 
-            "Revenge"
+            "Revenge", 
+            "AltTaylor", 
+            "Regent and Taylor", 
+            "Regent POV"
           ], 
           "sb": "http://forums.spacebattles.com/posts/16355535/", 
           "id": "5-1", 
@@ -467,15 +474,17 @@ var mw_data =
             "Revenge": true, 
             "Creepy": true, 
             "AltTaylor": true, 
+            "Regent and Taylor": true, 
             "Comeuppance": true, 
             "Taylor POV": true
           }, 
           "visible_tags": [
             "Villain Taylor", 
-            "AltTaylor", 
             "Creepy Taylor", 
-            "Taylor POV", 
-            "Revenge"
+            "Revenge", 
+            "AltTaylor", 
+            "Regent and Taylor", 
+            "Taylor POV"
           ], 
           "title": "\"Revisionism\"", 
           "sv": "https://forums.sufficientvelocity.com/threads/beaconhills-morning-worm-one-shot-series-worm.14077/page-7#post-2720398", 
@@ -487,15 +496,17 @@ var mw_data =
             "Revenge": true, 
             "Creepy": true, 
             "AltTaylor": true, 
+            "Regent and Taylor": true, 
             "Comeuppance": true, 
             "Taylor POV": true
           }, 
           "visible_spoiler_tags": [
             "Villain Taylor", 
-            "AltTaylor", 
             "Creepy Taylor", 
-            "Taylor POV", 
-            "Revenge"
+            "Revenge", 
+            "AltTaylor", 
+            "Regent and Taylor", 
+            "Taylor POV"
           ], 
           "sb": "http://forums.spacebattles.com/posts/16364895/", 
           "id": "6-1", 
@@ -902,12 +913,15 @@ var mw_data =
     }, 
     {
       "lookup_tags_spoilers": {
+        "Creepy Taylor": true, 
         "Taylor": true, 
         "Dark Tone": true, 
         "Canon Powers Taylor": true, 
+        "Revenge": true, 
         "Creepy": true, 
         "Crazy Taylor": true, 
         "Background Swap": true, 
+        "Comeuppance": true, 
         "Bitch": true, 
         "Rachel POV": true, 
         "Undersiders Taylor": true
@@ -915,13 +929,16 @@ var mw_data =
       "thread_sb": null, 
       "name": "Rachel Hebert", 
       "tags": {
-        "Crazy Taylor": "normal", 
+        "Creepy Taylor": "normal", 
+        "Undersiders Taylor": "normal", 
         "Canon Powers Taylor": "normal", 
+        "Revenge": "spoiler", 
+        "Crazy Taylor": "normal", 
         "Background Swap": "normal", 
-        "Rachel POV": "normal", 
-        "Undersiders Taylor": "normal"
+        "Rachel POV": "normal"
       }, 
       "lookup_tags": {
+        "Creepy Taylor": true, 
         "Taylor": true, 
         "Dark Tone": true, 
         "Canon Powers Taylor": true, 
@@ -1021,42 +1038,45 @@ var mw_data =
         }, 
         {
           "lookup_tags_spoilers": {
+            "Creepy Taylor": true, 
             "Taylor": true, 
             "Dark Tone": true, 
             "Canon Powers Taylor": true, 
+            "Revenge": true, 
             "Creepy": true, 
-            "Crazy Taylor": true, 
             "Background Swap": true, 
+            "Comeuppance": true, 
             "Bitch": true, 
             "Rachel POV": true, 
             "Undersiders Taylor": true
           }, 
           "visible_tags": [
-            "Crazy Taylor", 
+            "Creepy Taylor", 
+            "Undersiders Taylor", 
             "Canon Powers Taylor", 
             "Background Swap", 
-            "Rachel POV", 
-            "Undersiders Taylor"
+            "Rachel POV"
           ], 
           "title": "\"Spiderweb\"", 
           "sv": "https://forums.sufficientvelocity.com/threads/beaconhills-morning-worm-one-shot-series-worm.14077/page-38#post-2995070", 
           "lookup_tags": {
+            "Creepy Taylor": true, 
             "Taylor": true, 
             "Dark Tone": true, 
             "Canon Powers Taylor": true, 
             "Creepy": true, 
-            "Crazy Taylor": true, 
             "Background Swap": true, 
             "Bitch": true, 
             "Rachel POV": true, 
             "Undersiders Taylor": true
           }, 
           "visible_spoiler_tags": [
-            "Crazy Taylor", 
+            "Creepy Taylor", 
+            "Undersiders Taylor", 
             "Canon Powers Taylor", 
             "Background Swap", 
             "Rachel POV", 
-            "Undersiders Taylor"
+            "Revenge"
           ], 
           "sb": "http://forums.spacebattles.com/posts/16783516/", 
           "id": "24-1", 
@@ -3942,9 +3962,12 @@ var mw_data =
     {
       "lookup_tags_spoilers": {
         "Villain Taylor": true, 
+        "Creepy Taylor": true, 
         "Taylor": true, 
         "Emma": true, 
+        "Dark Tone": true, 
         "Canon Powers Taylor": true, 
+        "Creepy": true, 
         "Taylor POV": true, 
         "E88": true, 
         "Sophia": true
@@ -3953,6 +3976,7 @@ var mw_data =
       "name": "I Am Skitter", 
       "tags": {
         "Villain Taylor": "normal", 
+        "Creepy Taylor": "normal", 
         "Emma": "normal", 
         "Canon Powers Taylor": "normal", 
         "Taylor POV": "normal", 
@@ -3961,9 +3985,12 @@ var mw_data =
       }, 
       "lookup_tags": {
         "Villain Taylor": true, 
+        "Creepy Taylor": true, 
         "Taylor": true, 
         "Emma": true, 
+        "Dark Tone": true, 
         "Canon Powers Taylor": true, 
+        "Creepy": true, 
         "Taylor POV": true, 
         "E88": true, 
         "Sophia": true
@@ -3972,14 +3999,18 @@ var mw_data =
         {
           "lookup_tags_spoilers": {
             "Villain Taylor": true, 
-            "Canon Powers Taylor": true, 
+            "Creepy Taylor": true, 
             "Taylor": true, 
+            "Dark Tone": true, 
+            "Canon Powers Taylor": true, 
+            "Creepy": true, 
             "Taylor POV": true, 
             "E88": true
           }, 
           "visible_tags": [
             "Villain Taylor", 
             "Canon Powers Taylor", 
+            "Creepy Taylor", 
             "Taylor POV", 
             "E88"
           ], 
@@ -3987,14 +4018,18 @@ var mw_data =
           "sv": "https://forums.sufficientvelocity.com/threads/beaconhills-morning-worm-one-shot-series-worm.14077/page-110#post-6468374", 
           "lookup_tags": {
             "Villain Taylor": true, 
-            "Canon Powers Taylor": true, 
+            "Creepy Taylor": true, 
             "Taylor": true, 
+            "Dark Tone": true, 
+            "Canon Powers Taylor": true, 
+            "Creepy": true, 
             "Taylor POV": true, 
             "E88": true
           }, 
           "visible_spoiler_tags": [
             "Villain Taylor", 
             "Canon Powers Taylor", 
+            "Creepy Taylor", 
             "Taylor POV", 
             "E88"
           ], 
@@ -4005,35 +4040,43 @@ var mw_data =
         {
           "lookup_tags_spoilers": {
             "Villain Taylor": true, 
+            "Creepy Taylor": true, 
             "Taylor": true, 
             "Emma": true, 
+            "Dark Tone": true, 
             "Canon Powers Taylor": true, 
+            "Creepy": true, 
             "Taylor POV": true, 
             "Sophia": true
           }, 
           "visible_tags": [
             "Villain Taylor", 
+            "Creepy Taylor", 
+            "Emma", 
             "Canon Powers Taylor", 
             "Taylor POV", 
-            "Sophia", 
-            "Emma"
+            "Sophia"
           ], 
           "title": "\"Heroes, Villains, Little Girls\"", 
           "sv": "https://forums.sufficientvelocity.com/threads/beaconhills-morning-worm-one-shot-series-worm.14077/page-112#post-6503624", 
           "lookup_tags": {
             "Villain Taylor": true, 
+            "Creepy Taylor": true, 
             "Taylor": true, 
             "Emma": true, 
+            "Dark Tone": true, 
             "Canon Powers Taylor": true, 
+            "Creepy": true, 
             "Taylor POV": true, 
             "Sophia": true
           }, 
           "visible_spoiler_tags": [
             "Villain Taylor", 
+            "Creepy Taylor", 
+            "Emma", 
             "Canon Powers Taylor", 
             "Taylor POV", 
-            "Sophia", 
-            "Emma"
+            "Sophia"
           ], 
           "sb": "https://forums.spacebattles.com/posts/23550733/", 
           "id": "50-13", 
@@ -4042,39 +4085,47 @@ var mw_data =
         {
           "lookup_tags_spoilers": {
             "Villain Taylor": true, 
+            "Creepy Taylor": true, 
             "Taylor": true, 
             "Emma": true, 
+            "Dark Tone": true, 
             "Canon Powers Taylor": true, 
+            "Creepy": true, 
             "Taylor POV": true, 
-            "Sophia": true, 
-            "E88": true
+            "E88": true, 
+            "Sophia": true
           }, 
           "visible_tags": [
             "Villain Taylor", 
+            "Creepy Taylor", 
             "Emma", 
             "Canon Powers Taylor", 
             "Taylor POV", 
-            "Sophia", 
-            "E88"
+            "E88", 
+            "Sophia"
           ], 
           "title": "\"The Hive\"", 
           "sv": "https://forums.sufficientvelocity.com/threads/beaconhills-morning-worm-one-shot-series-worm.14077/page-114#post-6536340", 
           "lookup_tags": {
             "Villain Taylor": true, 
+            "Creepy Taylor": true, 
             "Taylor": true, 
             "Emma": true, 
+            "Dark Tone": true, 
             "Canon Powers Taylor": true, 
+            "Creepy": true, 
             "Taylor POV": true, 
-            "Sophia": true, 
-            "E88": true
+            "E88": true, 
+            "Sophia": true
           }, 
           "visible_spoiler_tags": [
             "Villain Taylor", 
+            "Creepy Taylor", 
             "Emma", 
             "Canon Powers Taylor", 
             "Taylor POV", 
-            "Sophia", 
-            "E88"
+            "E88", 
+            "Sophia"
           ], 
           "sb": "https://forums.spacebattles.com/threads/beaconhills-morning-worm-one-shot-series-worm.325982/page-68#post-23751489", 
           "id": "50-14", 
@@ -4237,9 +4288,11 @@ var mw_data =
         "Madison": true, 
         "Taylor": true, 
         "Emma": true, 
+        "Revenge": true, 
         "Hero Taylor": true, 
         "Victoria": true, 
         "Amy": true, 
+        "Comeuppance": true, 
         "Sophia": true
       }, 
       "thread_sb": null, 
@@ -4248,6 +4301,7 @@ var mw_data =
         "Madison": "normal", 
         "Taylor": "normal", 
         "Emma": "normal", 
+        "Revenge": "normal", 
         "Hero Taylor": "normal", 
         "Victoria": "normal", 
         "Amy": "normal", 
@@ -4257,9 +4311,11 @@ var mw_data =
         "Madison": true, 
         "Taylor": true, 
         "Emma": true, 
+        "Revenge": true, 
         "Hero Taylor": true, 
         "Victoria": true, 
         "Amy": true, 
+        "Comeuppance": true, 
         "Sophia": true
       }, 
       "stories": [
@@ -4322,15 +4378,18 @@ var mw_data =
             "Madison": true, 
             "Taylor": true, 
             "Emma": true, 
-            "Sophia": true, 
-            "Hero Taylor": true
+            "Revenge": true, 
+            "Hero Taylor": true, 
+            "Comeuppance": true, 
+            "Sophia": true
           }, 
           "visible_tags": [
             "Madison", 
             "Taylor", 
             "Emma", 
-            "Sophia", 
-            "Hero Taylor"
+            "Revenge", 
+            "Hero Taylor", 
+            "Sophia"
           ], 
           "title": "\"Back to School\"", 
           "sv": "https://forums.sufficientvelocity.com/threads/beaconhills-morning-worm-one-shot-series-worm.14077/page-120#post-6836975", 
@@ -4338,15 +4397,18 @@ var mw_data =
             "Madison": true, 
             "Taylor": true, 
             "Emma": true, 
-            "Sophia": true, 
-            "Hero Taylor": true
+            "Revenge": true, 
+            "Hero Taylor": true, 
+            "Comeuppance": true, 
+            "Sophia": true
           }, 
           "visible_spoiler_tags": [
             "Madison", 
             "Taylor", 
             "Emma", 
-            "Sophia", 
-            "Hero Taylor"
+            "Revenge", 
+            "Hero Taylor", 
+            "Sophia"
           ], 
           "sb": "https://forums.spacebattles.com/threads/beaconhills-morning-worm-one-shot-series-worm.325982/page-73#post-25572880", 
           "id": "50-20", 
@@ -4484,51 +4546,58 @@ var mw_data =
         "Bitch and Sophia": true, 
         "Bitch": true, 
         "Alan Barnes": true, 
+        "Sophia": true, 
         "Sophia POV": true, 
-        "Sophia": true
+        "Light Tone": true
       }, 
       "thread_sb": "https://forums.spacebattles.com/threads/woof-worm.440854/", 
       "name": "Woof", 
       "tags": {
-        "Sophia POV": "normal", 
-        "Rachel": "normal", 
         "Emma": "normal", 
+        "Rachel": "normal", 
+        "Alan Barnes": "normal", 
+        "Sophia POV": "normal", 
         "Sophia and Rachel": "normal", 
-        "Alan Barnes": "normal"
+        "Light Tone": "normal"
       }, 
       "lookup_tags": {
         "Emma": true, 
         "Bitch and Sophia": true, 
         "Bitch": true, 
         "Alan Barnes": true, 
+        "Sophia": true, 
         "Sophia POV": true, 
-        "Sophia": true
+        "Light Tone": true
       }, 
       "stories": [
         {
           "lookup_tags_spoilers": {
+            "Sophia": true, 
             "Sophia POV": true, 
             "Bitch": true, 
-            "Sophia": true, 
+            "Light Tone": true, 
             "Bitch and Sophia": true
           }, 
           "visible_tags": [
             "Sophia POV", 
             "Bitch", 
-            "Bitch and Sophia"
+            "Bitch and Sophia", 
+            "Light Tone"
           ], 
           "title": "\"Woof\"", 
           "sv": "https://forums.sufficientvelocity.com/threads/beaconhills-morning-worm-one-shot-series-worm.14077/page-122#post-6939831", 
           "lookup_tags": {
+            "Sophia": true, 
             "Sophia POV": true, 
             "Bitch": true, 
-            "Sophia": true, 
+            "Light Tone": true, 
             "Bitch and Sophia": true
           }, 
           "visible_spoiler_tags": [
             "Sophia POV", 
             "Bitch", 
-            "Bitch and Sophia"
+            "Bitch and Sophia", 
+            "Light Tone"
           ], 
           "sb": "https://forums.spacebattles.com/threads/beaconhills-morning-worm-one-shot-series-worm.325982/page-74#post-26195578", 
           "id": "50-22", 
@@ -4581,16 +4650,18 @@ var mw_data =
         "Grue and Taylor": true, 
         "Canon Powers Taylor": true, 
         "Hero Taylor": true, 
-        "Brian POV": true
+        "Brian POV": true, 
+        "Light Tone": true
       }, 
       "thread_sb": null, 
       "name": "Night Train", 
       "tags": {
-        "Canon Powers Taylor": "normal", 
         "Taylor": "normal", 
-        "Taylor and Grue": "normal", 
+        "Canon Powers Taylor": "normal", 
         "Hero Taylor": "normal", 
-        "Brian POV": "normal"
+        "Taylor and Grue": "normal", 
+        "Brian POV": "normal", 
+        "Light Tone": "normal"
       }, 
       "lookup_tags": {
         "Grue": true, 
@@ -4598,7 +4669,8 @@ var mw_data =
         "Grue and Taylor": true, 
         "Canon Powers Taylor": true, 
         "Hero Taylor": true, 
-        "Brian POV": true
+        "Brian POV": true, 
+        "Light Tone": true
       }, 
       "stories": [
         {
@@ -4608,14 +4680,16 @@ var mw_data =
             "Grue and Taylor": true, 
             "Canon Powers Taylor": true, 
             "Hero Taylor": true, 
-            "Brian POV": true
+            "Brian POV": true, 
+            "Light Tone": true
           }, 
           "visible_tags": [
-            "Canon Powers Taylor", 
             "Taylor", 
-            "Grue and Taylor", 
+            "Canon Powers Taylor", 
             "Hero Taylor", 
-            "Brian POV"
+            "Grue and Taylor", 
+            "Brian POV", 
+            "Light Tone"
           ], 
           "title": "\"Night Train\"", 
           "sv": "https://forums.sufficientvelocity.com/threads/beaconhills-morning-worm-one-shot-series-worm.14077/page-123#post-6953646", 
@@ -4625,14 +4699,16 @@ var mw_data =
             "Grue and Taylor": true, 
             "Canon Powers Taylor": true, 
             "Hero Taylor": true, 
-            "Brian POV": true
+            "Brian POV": true, 
+            "Light Tone": true
           }, 
           "visible_spoiler_tags": [
-            "Canon Powers Taylor", 
             "Taylor", 
-            "Grue and Taylor", 
+            "Canon Powers Taylor", 
             "Hero Taylor", 
-            "Brian POV"
+            "Grue and Taylor", 
+            "Brian POV", 
+            "Light Tone"
           ], 
           "sb": "https://forums.spacebattles.com/threads/beaconhills-morning-worm-one-shot-series-worm.325982/page-76#post-26276272", 
           "id": "50-23", 
@@ -4648,16 +4724,18 @@ var mw_data =
         "Case 53 Taylor": true, 
         "AltTaylor": true, 
         "Taylor": true, 
+        "Light Tone": true, 
         "Sophia": true
       }, 
       "thread_sb": null, 
       "name": "Angel", 
       "tags": {
-        "AltTaylor": "normal", 
         "Emma POV": "normal", 
         "Case 53 Taylor": "normal", 
+        "AltTaylor": "normal", 
+        "Taylor": "normal", 
         "Sophia": "normal", 
-        "Taylor": "normal"
+        "Light Tone": "normal"
       }, 
       "lookup_tags": {
         "Emma POV": true, 
@@ -4665,6 +4743,7 @@ var mw_data =
         "Case 53 Taylor": true, 
         "AltTaylor": true, 
         "Taylor": true, 
+        "Light Tone": true, 
         "Sophia": true
       }, 
       "stories": [
@@ -4675,14 +4754,16 @@ var mw_data =
             "Case 53 Taylor": true, 
             "AltTaylor": true, 
             "Taylor": true, 
+            "Light Tone": true, 
             "Sophia": true
           }, 
           "visible_tags": [
-            "AltTaylor", 
             "Emma POV", 
             "Case 53 Taylor", 
-            "Sophia", 
-            "Taylor"
+            "AltTaylor", 
+            "Taylor", 
+            "Light Tone", 
+            "Sophia"
           ], 
           "title": "\"Angel\"", 
           "sv": "https://forums.sufficientvelocity.com/threads/beaconhills-morning-worm-one-shot-series-worm.14077/page-124#post-6963475", 
@@ -4692,14 +4773,16 @@ var mw_data =
             "Case 53 Taylor": true, 
             "AltTaylor": true, 
             "Taylor": true, 
+            "Light Tone": true, 
             "Sophia": true
           }, 
           "visible_spoiler_tags": [
-            "AltTaylor", 
             "Emma POV", 
             "Case 53 Taylor", 
-            "Sophia", 
-            "Taylor"
+            "AltTaylor", 
+            "Taylor", 
+            "Light Tone", 
+            "Sophia"
           ], 
           "sb": "https://forums.spacebattles.com/threads/beaconhills-morning-worm-one-shot-series-worm.325982/page-77#post-26333776", 
           "id": "50-24", 
@@ -4712,14 +4795,16 @@ var mw_data =
             "Case 53 Taylor": true, 
             "AltTaylor": true, 
             "Taylor": true, 
+            "Light Tone": true, 
             "Sophia": true
           }, 
           "visible_tags": [
-            "AltTaylor", 
             "Emma POV", 
             "Case 53 Taylor", 
-            "Sophia", 
-            "Taylor"
+            "AltTaylor", 
+            "Taylor", 
+            "Light Tone", 
+            "Sophia"
           ], 
           "title": "\"Angel\" Revised", 
           "sv": "https://forums.sufficientvelocity.com/threads/beaconhills-morning-worm-one-shot-series-worm.14077/page-125#post-6971965", 
@@ -4729,14 +4814,16 @@ var mw_data =
             "Case 53 Taylor": true, 
             "AltTaylor": true, 
             "Taylor": true, 
+            "Light Tone": true, 
             "Sophia": true
           }, 
           "visible_spoiler_tags": [
-            "AltTaylor", 
             "Emma POV", 
             "Case 53 Taylor", 
-            "Sophia", 
-            "Taylor"
+            "AltTaylor", 
+            "Taylor", 
+            "Light Tone", 
+            "Sophia"
           ], 
           "sb": "https://forums.spacebattles.com/threads/beaconhills-morning-worm-one-shot-series-worm.325982/page-78#post-26386669", 
           "id": "50-26", 
@@ -4749,14 +4836,16 @@ var mw_data =
             "Case 53 Taylor": true, 
             "AltTaylor": true, 
             "Taylor": true, 
+            "Light Tone": true, 
             "Sophia": true
           }, 
           "visible_tags": [
-            "AltTaylor", 
             "Emma POV", 
             "Case 53 Taylor", 
-            "Sophia", 
-            "Taylor"
+            "AltTaylor", 
+            "Taylor", 
+            "Light Tone", 
+            "Sophia"
           ], 
           "title": "\"Meeting New Friends\"", 
           "sv": "https://forums.sufficientvelocity.com/threads/beaconhills-morning-worm-one-shot-series-worm.14077/page-126#post-7005144", 
@@ -4766,14 +4855,16 @@ var mw_data =
             "Case 53 Taylor": true, 
             "AltTaylor": true, 
             "Taylor": true, 
+            "Light Tone": true, 
             "Sophia": true
           }, 
           "visible_spoiler_tags": [
-            "AltTaylor", 
             "Emma POV", 
             "Case 53 Taylor", 
-            "Sophia", 
-            "Taylor"
+            "AltTaylor", 
+            "Taylor", 
+            "Light Tone", 
+            "Sophia"
           ], 
           "sb": "https://forums.spacebattles.com/threads/beaconhills-morning-worm-one-shot-series-worm.325982/page-80#post-26575417", 
           "id": "50-27", 
@@ -4788,12 +4879,14 @@ var mw_data =
         "Villain Taylor": true, 
         "Emma POV": true, 
         "Emma": true, 
-        "Dark Tone": true, 
+        "Undersiders Taylor": true, 
+        "Revenge": true, 
         "Creepy": true, 
         "Regent and Taylor": true, 
+        "Comeuppance": true, 
         "Taylor": true, 
         "Power Swap": true, 
-        "Undersiders Taylor": true
+        "Dark Tone": true
       }, 
       "thread_sb": null, 
       "name": "Twitch", 
@@ -4803,6 +4896,7 @@ var mw_data =
         "Emma POV": "normal", 
         "Undersiders Taylor": "normal", 
         "Taylor and Alec": "normal", 
+        "Revenge": "normal", 
         "Power Swap": "normal"
       }, 
       "lookup_tags": {
@@ -4810,12 +4904,14 @@ var mw_data =
         "Villain Taylor": true, 
         "Emma POV": true, 
         "Emma": true, 
-        "Dark Tone": true, 
+        "Undersiders Taylor": true, 
+        "Revenge": true, 
         "Creepy": true, 
         "Regent and Taylor": true, 
+        "Comeuppance": true, 
         "Taylor": true, 
         "Power Swap": true, 
-        "Undersiders Taylor": true
+        "Dark Tone": true
       }, 
       "stories": [
         {
@@ -4825,9 +4921,11 @@ var mw_data =
             "Emma POV": true, 
             "Emma": true, 
             "Dark Tone": true, 
+            "Revenge": true, 
             "Creepy": true, 
             "Regent and Taylor": true, 
             "Taylor": true, 
+            "Comeuppance": true, 
             "Power Swap": true, 
             "Undersiders Taylor": true
           }, 
@@ -4837,6 +4935,7 @@ var mw_data =
             "Emma POV", 
             "Undersiders Taylor", 
             "Regent and Taylor", 
+            "Revenge", 
             "Power Swap"
           ], 
           "title": "\"Twitch\"", 
@@ -4847,9 +4946,11 @@ var mw_data =
             "Emma POV": true, 
             "Emma": true, 
             "Dark Tone": true, 
+            "Revenge": true, 
             "Creepy": true, 
             "Regent and Taylor": true, 
             "Taylor": true, 
+            "Comeuppance": true, 
             "Power Swap": true, 
             "Undersiders Taylor": true
           }, 
@@ -4859,11 +4960,236 @@ var mw_data =
             "Emma POV", 
             "Undersiders Taylor", 
             "Regent and Taylor", 
+            "Revenge", 
             "Power Swap"
           ], 
           "sb": "https://forums.spacebattles.com/posts/27100142/", 
           "id": "50-28", 
-          "desc": "At school, Emma is walking away with Madison, when her arm twitches and touches her on the butt. That's embarrassing, but it isn't really a big deal. Except that it didn't stop. Tripping in front of Sophia and Taylor, trembling in math class... Something might be really wrong with her! Except, when she tries to text Sophia about it... suddenly she can't press the button. Her body seemingly out of her control, she walks out of school, and meets Taylor."
+          "desc": "(Continued in [url=https://forums.spacebattles.com/threads/beaconhills-morning-worm-one-shot-series-worm.325982/page-82#post-27178916]50-29 \"First Kiss\"[/url])At school, Emma is walking away with Madison, when her arm twitches and touches her on the butt. That's embarrassing, but it isn't really a big deal. Except that it didn't stop. Tripping in front of Sophia and Taylor, trembling in math class... Something might be really wrong with her! Except, when she tries to text Sophia about it... suddenly she can't press the button. Her body seemingly out of her control, she walks out of school, and meets Taylor."
+        }, 
+        {
+          "lookup_tags_spoilers": {
+            "Creepy Taylor": true, 
+            "Villain Taylor": true, 
+            "Emma POV": true, 
+            "Emma": true, 
+            "Dark Tone": true, 
+            "Revenge": true, 
+            "Creepy": true, 
+            "Regent and Taylor": true, 
+            "Taylor": true, 
+            "Comeuppance": true, 
+            "Power Swap": true, 
+            "Undersiders Taylor": true
+          }, 
+          "visible_tags": [
+            "Creepy Taylor", 
+            "Villain Taylor", 
+            "Emma POV", 
+            "Undersiders Taylor", 
+            "Regent and Taylor", 
+            "Revenge", 
+            "Power Swap"
+          ], 
+          "title": "\"First Kiss\"", 
+          "sv": "https://forums.sufficientvelocity.com/threads/beaconhills-morning-worm-one-shot-series-worm.14077/page-128#post-7106580", 
+          "lookup_tags": {
+            "Creepy Taylor": true, 
+            "Villain Taylor": true, 
+            "Emma POV": true, 
+            "Emma": true, 
+            "Dark Tone": true, 
+            "Revenge": true, 
+            "Creepy": true, 
+            "Regent and Taylor": true, 
+            "Taylor": true, 
+            "Comeuppance": true, 
+            "Power Swap": true, 
+            "Undersiders Taylor": true
+          }, 
+          "visible_spoiler_tags": [
+            "Creepy Taylor", 
+            "Villain Taylor", 
+            "Emma POV", 
+            "Undersiders Taylor", 
+            "Regent and Taylor", 
+            "Revenge", 
+            "Power Swap"
+          ], 
+          "sb": "https://forums.spacebattles.com/threads/beaconhills-morning-worm-one-shot-series-worm.325982/page-82#post-27178916", 
+          "id": "50-29", 
+          "desc": "After capturing Emma, Taylor uses her identity to capture Sophia along with her. The process is slow, and painful, and agonizing for Emma to watch. But... wait. Taylor isn't telling Sophia who she is... She's pretending it really is Emma with this power. Oh, god..."
+        }
+      ], 
+      "thread_sv": null
+    }, 
+    {
+      "lookup_tags_spoilers": {
+        "Villain Taylor": true, 
+        "AltTaylor": true, 
+        "Taylor": true, 
+        "Taylor POV": true, 
+        "Undersiders Taylor": true
+      }, 
+      "thread_sb": null, 
+      "name": "Phantasy", 
+      "tags": {
+        "Villain Taylor": "normal", 
+        "AltTaylor": "normal", 
+        "Taylor POV": "normal", 
+        "Undersiders Taylor": "normal"
+      }, 
+      "lookup_tags": {
+        "Villain Taylor": true, 
+        "AltTaylor": true, 
+        "Taylor": true, 
+        "Taylor POV": true, 
+        "Undersiders Taylor": true
+      }, 
+      "stories": [
+        {
+          "lookup_tags_spoilers": {
+            "AltTaylor": true, 
+            "Taylor": true, 
+            "Taylor POV": true
+          }, 
+          "visible_tags": [
+            "AltTaylor", 
+            "Taylor POV"
+          ], 
+          "title": "\"Lost in Phantasy\"", 
+          "sv": "https://forums.sufficientvelocity.com/threads/beaconhills-morning-worm-one-shot-series-worm.14077/page-129#post-7137517", 
+          "lookup_tags": {
+            "AltTaylor": true, 
+            "Taylor": true, 
+            "Taylor POV": true
+          }, 
+          "visible_spoiler_tags": [
+            "AltTaylor", 
+            "Taylor POV"
+          ], 
+          "sb": "https://forums.spacebattles.com/threads/beaconhills-morning-worm-one-shot-series-worm.325982/page-84#post-27354500", 
+          "id": "50-30", 
+          "desc": "Taylor Hebert, the new superhero Phantasos, is amusing herself at school. tricking Sophia and Madison into pranking Emma the way they'd meant to prank her. Ha ha, what fun... But not long after, she discovered the bad news: the PRT didn't believe she was really a hero. Damn it, Armsmaster, I know we had a little misunderstanding but I <i>told</i> you... Uggh! So when the villainous Undersiders message her, asking to meet, she decides: okay, sure. Why not?"
+        }, 
+        {
+          "lookup_tags_spoilers": {
+            "Villain Taylor": true, 
+            "AltTaylor": true, 
+            "Taylor": true, 
+            "Taylor POV": true, 
+            "Undersiders Taylor": true
+          }, 
+          "visible_tags": [
+            "Villain Taylor", 
+            "AltTaylor", 
+            "Taylor POV", 
+            "Undersiders Taylor"
+          ], 
+          "title": "\"Dancing Across The Fence\"", 
+          "sv": "https://forums.sufficientvelocity.com/threads/beaconhills-morning-worm-one-shot-series-worm.14077/page-130#post-7148501", 
+          "lookup_tags": {
+            "Villain Taylor": true, 
+            "AltTaylor": true, 
+            "Taylor": true, 
+            "Taylor POV": true, 
+            "Undersiders Taylor": true
+          }, 
+          "visible_spoiler_tags": [
+            "Villain Taylor", 
+            "AltTaylor", 
+            "Taylor POV", 
+            "Undersiders Taylor"
+          ], 
+          "sb": "https://forums.spacebattles.com/threads/beaconhills-morning-worm-one-shot-series-worm.325982/page-86#post-27424914", 
+          "id": "50-31", 
+          "desc": "Taylor meets with the Undersiders on a rooftop in the Docks. And, yeah, they're villains, but... they seem pretty nice, and they're offering a lot of money. She lets them know she'd thought about being a hero... and then she agrees to join, although she warns them that if they piss her off she might not be sticking around for long."
+        }, 
+        {
+          "lookup_tags_spoilers": {
+            "Villain Taylor": true, 
+            "AltTaylor": true, 
+            "Taylor": true, 
+            "Taylor POV": true, 
+            "Undersiders Taylor": true
+          }, 
+          "visible_tags": [
+            "Villain Taylor", 
+            "AltTaylor", 
+            "Taylor POV", 
+            "Undersiders Taylor"
+          ], 
+          "title": "\"Member of the Team\"", 
+          "sv": "https://forums.sufficientvelocity.com/threads/beaconhills-morning-worm-one-shot-series-worm.14077/page-131#post-7150239", 
+          "lookup_tags": {
+            "Villain Taylor": true, 
+            "AltTaylor": true, 
+            "Taylor": true, 
+            "Taylor POV": true, 
+            "Undersiders Taylor": true
+          }, 
+          "visible_spoiler_tags": [
+            "Villain Taylor", 
+            "AltTaylor", 
+            "Taylor POV", 
+            "Undersiders Taylor"
+          ], 
+          "sb": "https://forums.spacebattles.com/threads/beaconhills-morning-worm-one-shot-series-worm.325982/page-86#post-27436311", 
+          "id": "50-32", 
+          "desc": "Taylor is a new member of the Undersiders! But she's getting a little iffy about some of them. Brian doesn't seem to be getting over the idea that Taylor had been a hero before... Ugh, <i>so</i> annoying. So when Rachel attacks Taylor with her dogs, and then Brian with his darkness, even though Taylor effortlessly defeats both of them she still leaves in a huff. Except then Alec manages to escape her power, coming down the stairs to talk to her. They've barely met, but Alec thinks they're kindred spirits; will he be able to talk her into staying?"
+        }
+      ], 
+      "thread_sv": null
+    }, 
+    {
+      "lookup_tags_spoilers": {
+        "AltTaylor": true, 
+        "Taylor": true, 
+        "Taylor POV": true, 
+        "Hero Taylor": true
+      }, 
+      "thread_sb": null, 
+      "name": "My Teacher Khepri", 
+      "tags": {
+        "AltTaylor": "normal", 
+        "Taylor POV": "normal", 
+        "Hero Taylor": "normal"
+      }, 
+      "lookup_tags": {
+        "AltTaylor": true, 
+        "Taylor": true, 
+        "Taylor POV": true, 
+        "Hero Taylor": true
+      }, 
+      "stories": [
+        {
+          "lookup_tags_spoilers": {
+            "AltTaylor": true, 
+            "Taylor": true, 
+            "Taylor POV": true, 
+            "Hero Taylor": true
+          }, 
+          "visible_tags": [
+            "AltTaylor", 
+            "Taylor POV", 
+            "Hero Taylor"
+          ], 
+          "title": "\"My Teacher Khepri\"", 
+          "sv": "https://forums.sufficientvelocity.com/threads/beaconhills-morning-worm-one-shot-series-worm.14077/page-132#post-7173438", 
+          "lookup_tags": {
+            "AltTaylor": true, 
+            "Taylor": true, 
+            "Taylor POV": true, 
+            "Hero Taylor": true
+          }, 
+          "visible_spoiler_tags": [
+            "AltTaylor", 
+            "Taylor POV", 
+            "Hero Taylor"
+          ], 
+          "sb": "https://forums.spacebattles.com/threads/beaconhills-morning-worm-one-shot-series-worm.325982/page-88#post-27572712", 
+          "id": "50-33", 
+          "desc": "After another day at school, dealing with the bullies \u2013\u00a0<i>Juice? Seriously?</i> \u2013\u00a0Taylor walks happily through the Docks. She doesn't have to care about her bullies. She's a superhero. Antheia, a plant controller. And she's on her way to meet her teacher and her partner: Khepri, a powerful insect-controlling independent hero."
         }
       ], 
       "thread_sv": null
@@ -5032,6 +5358,7 @@ var mw_data =
     "Case 53 Taylor": "Taylor has a mutated appearance in some way", 
     "Undersiders": "Has the Undersiders in it", 
     "Lisa POV": "Lisa is the POV character", 
+    "Regent and Taylor": "Regent and Taylor are a pair", 
     "Sophia POV": "Sophia is the POV character", 
     "Rachel POV": "Bitch is the POV character", 
     "Canon Scene": "A recasting of a canon scene", 
